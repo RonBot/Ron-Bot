@@ -61,7 +61,7 @@
     "start": "node start.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Roncito",
+  "author": "FG98F",
   "license": "MIT license",
   "bugs": {
     "url": "https://github.com/RonBot/Ron-Bot/issues"
