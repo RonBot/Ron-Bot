@@ -1,5 +1,5 @@
 {
-  "name": "Ron-Bot",
+  "name": "ron-bot",
   "version": "0.5.0",
   "description": "WhatsApp Bot Baileys",
   "main": "main.js",
@@ -64,7 +64,7 @@
   "author": "Roncito",
   "license": "MIT license",
   "bugs": {
-    "url": "https://github.com/RonBot/Ron.Bot"
+    "url": "https://github.com/RonBot/Ron-Bot/issues"
   },
   "homepage": "https://github.com/RonBot/Ron.Bot/"
 }
